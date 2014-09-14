@@ -1,0 +1,28 @@
+Partlist
+
+Exported from Oscillator.sch at 12/09/2014 05:13:13 ã
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library        Sheet
+
+C1       470pF          C-EU025-025X050 C025-025X050 rcl            1
+C2       470pF          C-EU025-025X050 C025-025X050 rcl            1
+C3       0.01u          C-EU025-025X050 C025-025X050 rcl            1
+C4       0.01u          C-EU025-025X050 C025-025X050 rcl            1
+C5       0.01u          C-EU025-025X050 C025-025X050 rcl            1
+CRYSTAL                 MA04-1          MA04-1       con-lstb       1
+L1       100uH          L-US0204/7      0204/7       rcl            1
+OUTPUT                  W237-102        W237-102     con-wago-500   1
+POWER                   W237-102        W237-102     con-wago-500   1
+Q1       2N3904         2N3904          TO92         transistor-npn 1
+Q2       2N3904         2N3904          TO92         transistor-npn 1
+R1       10k            R-US_0204/7     0204/7       rcl            1
+R2       10k            R-US_0204/7     0204/7       rcl            1
+R3       1k             R-US_0204/7     0204/7       rcl            1
+R4       470            R-US_0204/7     0204/7       rcl            1
+R5       10k            R-US_0204/7     0204/7       rcl            1
+R6       1k             R-US_0204/7     0204/7       rcl            1
+SW1                     SW_DIP-1        EDG-01       special        1
